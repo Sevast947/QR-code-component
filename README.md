@@ -34,5 +34,3 @@ I know that It is not perfect but I think that It wasn't bad for my first projec
 
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Speredonka)
 - Twitter - [@yourusername](https://www.twitter.com/speredonka)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
