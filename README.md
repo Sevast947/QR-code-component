@@ -23,7 +23,6 @@ I know that It is not perfect but I think that It wasn't bad for my first projec
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
 
 ### Useful resources
 
